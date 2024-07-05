@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "role": "App Developer",
+    "organisation": "SDC",
+    "startDate": "Dec, 2022",
+    "endDate": "Dec, 2023",
+    "location": "Delhi",
+    "experiences": [
+      "Worked on making social media app for connecting students and different clubs at the Campus."
+    ],
+    "imageSrc": "company/SDC_USICT.png"
+  },
+  {
+    "id": 2,
+    "role": "Programming Intern",
+    "organisation": "CodSoft",
+    "startDate": "Aug, 2023",
+    "endDate": "Sep, 2023",
+    "location": "WFH",
+    "experiences": [
+      "Solved many logical Problems",
+      "Worked on the DSA"
+    ],
+    "imageSrc": "company/CodSoft.png"
+  }
+]
