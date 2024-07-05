@@ -1,19 +1,19 @@
 [
   {
     "title": "C++",
-    "imageSrc": "skills/C++_language.png"
+    "imageSrc": "skills/C++_language.svg"
   },
   {
     "title": "Java",
-    "imageSrc": "skills/Java_language.png"
+    "imageSrc": "skills/Java_language.svg"
   },
   {
     "title": "C",
-    "imageSrc": "skills/C_language.png"
+    "imageSrc": "skills/C_language.svg"
   },
   {
     "title": "C#",
-    "imageSrc": "skills/Csharp_language.png"
+    "imageSrc": "skills/Csharp_language.svg"
   },
   {
     "title": "HTML",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Flutter",
-    "imageSrc": "skills/Flutter_framework.png"
+    "imageSrc": "skills/Flutter_framework.svg"
   },
   {
     "title": "React",
@@ -41,11 +41,11 @@
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "skills/bootstrap_logo.png"
+    "imageSrc": "skills/bootstrap_logo.svg"
   },
   {
     "title": "SQL",
-    "imageSrc": "skills/Sql_logo.png"
+    "imageSrc": "skills/Sql_logo.svg"
   },
   {
     "title":"Firebase",

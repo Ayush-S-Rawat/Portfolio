@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "BMI App",
-    "imageSrc": "projects/BMI_App.png",
+    "imageSrc": "projects/BMI_App.svg",
     "description": "This is a project made with complete React js.",
     "demo": "https://drive.google.com/uc?export=download&id=1Zy0LWSt3iniFxmjHF--XuO8rL0apxk_K",
     "source": "https://github.com/Ayush-S-Rawat/BMI-App"
