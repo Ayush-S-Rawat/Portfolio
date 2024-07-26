@@ -1,9 +1,25 @@
 [
   {
     "key": 1,
+    "title": "eBazaar",
+    "imageSrc": "projects/eBazaar.svg",
+    "description": "An E Commerce application made with Flutter and Firebase.",
+    "demo": "https://drive.google.com/uc?export=download&id=1mAPa4VdNyIgk6z6m8TS8POqmwD4BG4ta",
+    "source": "https://github.com/Ayush-S-Rawat/eBazaar"
+  },
+  {
+    "key": 2,
+    "title": "Rawat Institute",
+    "imageSrc": "projects/Coaching.svg",
+    "description": "A C++ Apllication for a coaching institute. Worked on Binary files.",
+    "demo": "https://github.com/Ayush-S-Rawat/Coaching_Institute",
+    "source": "https://github.com/Ayush-S-Rawat/Coaching_Institute"
+  },
+  {
+    "key": 3,
     "title": "BMI App",
     "imageSrc": "projects/BMI_App.svg",
-    "description": "This is a project made with complete React js.",
+    "description": "An application which calculates BMI made with Flutter.",
     "demo": "https://drive.google.com/uc?export=download&id=1Zy0LWSt3iniFxmjHF--XuO8rL0apxk_K",
     "source": "https://github.com/Ayush-S-Rawat/BMI-App"
   }
