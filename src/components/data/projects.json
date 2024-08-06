@@ -9,6 +9,14 @@
   },
   {
     "key": 2,
+    "title": "AI ChatApp",
+    "imageSrc": "projects/AI_ChatApp.svg",
+    "description": "An AI Chatbot made using OpenAI API.",
+    "demo": "https://drive.google.com/uc?export=download&id=1xTh11jXV1ClxxJVw7KNfFZ1yrHXZ_vzt",
+    "source": "https://github.com/Ayush-S-Rawat/AI_ChatApp"
+  },
+  {
+    "key": 3,
     "title": "Rawat Institute",
     "imageSrc": "projects/Coaching.svg",
     "description": "A C++ Apllication for a coaching institute. Worked on Binary files.",
@@ -16,7 +24,7 @@
     "source": "https://github.com/Ayush-S-Rawat/Coaching_Institute"
   },
   {
-    "key": 3,
+    "key": 4,
     "title": "BMI App",
     "imageSrc": "projects/BMI_App.svg",
     "description": "An application which calculates BMI made with Flutter.",
