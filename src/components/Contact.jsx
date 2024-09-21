@@ -1,9 +1,7 @@
 import React from "react";
-import { FaInstagram } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
-import { FaGithubSquare } from "react-icons/fa";
+import { FaGithubSquare, FaInstagram, FaLaptopCode } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
-import { FaLaptopCode } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -15,7 +13,7 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://linktr.ee/AyushSRawat" target="_blank" className="items">
+          <a href="https://codolio.com/profile/NGOTKiHf" target="_blank" className="items">
             <FaLaptopCode className="icons" />
           </a>
           <a href="https://www.linkedin.com/in/ayush-rawat-209614139/" target="_blank" className="items">
