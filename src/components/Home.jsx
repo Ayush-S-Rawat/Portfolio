@@ -1,6 +1,4 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/Ayush_Rawat_Resume.pdf";
-import hero from "./data/hero.json";
 import Typed from "typed.js";
 
 const Home = () => {
@@ -41,7 +39,7 @@ const Home = () => {
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
-            <img src={`/assets/hero/hero.avif`} alt="hero" />
+            <img src={`/assets/hero/Self.jpg`} alt="hero" />
           </div>
         </div>
       </div>

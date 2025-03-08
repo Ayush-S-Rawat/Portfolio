@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "role": "Product Engineer Trainee",
+    "organisation": "Samsung R&D Institute - Delhi",
+    "startDate": "Feb, 2025",
+    "endDate": "Present",
+    "location": "Noida",
+    "experiences": [
+      "Part of the Software Product Team and closely working on different chipSets and TV models. Also part of Task Force responsible for creating solutions to ease the workload on the department."
+    ],
+    "imageSrc": "company/Samsung.png"
+  },
+  {
+    "id": 2,
     "role": "App Developer",
     "organisation": "SDC",
     "startDate": "Dec, 2022",
@@ -12,7 +24,7 @@
     "imageSrc": "company/SDC_USICT.png"
   },
   {
-    "id": 2,
+    "id": 3,
     "role": "Programming Intern",
     "organisation": "CodSoft",
     "startDate": "Aug, 2023",

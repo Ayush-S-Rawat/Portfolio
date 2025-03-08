@@ -20,6 +20,7 @@ const Experience = () => {
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
+                  <h2 style={{color: "darkgray"}}>{data.organisation}</h2>
                   <h4>
                     <span style={{ color: "yellowgreen" }}>
                       {data.startDate} {data.endDate}{" "}
